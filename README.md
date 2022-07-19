@@ -1,5 +1,10 @@
 # PY-PROJECT
-Python Codes
+
+Introduction:
+
+The following Python code can be used to make a backup of a network configuration and save it to a UNC path. The following instructions must be followed before you begin.
+
+ 
 
 The following credential section needs to be updated
 
