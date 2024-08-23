@@ -55,10 +55,10 @@ def File_Ops():
    
         
 if __name__ == "__main__":
-     SaveFolder = r"C:\Users\em3130\Desktop\W-FOLDER\06. Python\3. OUTPUT\1. BACKUP"
-     SaveStaus = r"C:\Users\em3130\Desktop\W-FOLDER\06. Python\3. OUTPUT\1. BACKUP\BACKUP-STATUS.csv"
+     SaveFolder = r"C:\Users\username\Desktop\W-FOLDER\06. Python\3. OUTPUT\1. BACKUP"
+     SaveStaus = r"C:\Users\username\Desktop\W-FOLDER\06. Python\3. OUTPUT\1. BACKUP\BACKUP-STATUS.csv"
      commands_list = ('show run')
-     core_host = ('HO-CORE-01', 'AT-CORE-02')
+     core_host = ('NX-CORE-01', 'NX-CORE-02')
      hostname_Commands = ('show run | i hostname', 'show run | grep hostname')
      IPaddrP = r"IP_Input_ssh.txt"
      day=Today()
