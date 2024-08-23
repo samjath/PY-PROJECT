@@ -18,8 +18,8 @@ Update the following UNC path with the correct location details.
 "SaveFolder" where the configuration files are saved and  SaveStaus where the backup status list are located. Change these two parameters with the location wehre you need to save the files. 
 
     
-     SaveFolder = r"C:\Users\em3130\Desktop\W-FOLDER\06. Python\3. OUTPUT\1. BACKUP"
-     SaveStaus = r"C:\Users\em3130\Desktop\W-FOLDER\06. Python\3. OUTPUT\1. BACKUP\BACKUP-STATUS.csv"
+     SaveFolder = r"C:\Users\username\Desktop\W-FOLDER\06. Python\3. OUTPUT\1. BACKUP"
+     SaveStaus = r"C:\Users\username\Desktop\W-FOLDER\06. Python\3. OUTPUT\1. BACKUP\BACKUP-STATUS.csv"
 
 This parameter needs to be modifed if NEXUS VDC is used and child VDC backup needs to be performed.
 
